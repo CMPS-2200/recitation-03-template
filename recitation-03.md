@@ -33,15 +33,16 @@ b) $W(n) = T(n/3)+ T(2n/3) + n \log n$
 
 
 c) $W(n) = 2T(n/2)+ n/ \log n$
-.
-.
-.
-.
-.
-.
-.
-.
-.
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+
 
 ## Brick method (7.5 pts)
 Solve the following recurrences using the brick method. First argue
