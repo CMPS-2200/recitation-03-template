@@ -8,7 +8,7 @@ In this recitation, we will investigate recurrences for work and span of algorit
 ## Tree method (7.5 pts)
 Solve the following recurrences using the tree method. 
 
-a) $W(n)$ = 3W(n/4) + n^2$
+a) $W(n) = 3W(n/4) + n^2$
 .  
 .  
 .  
