@@ -3,7 +3,7 @@
 **Name (Team Member 1):**_________________________  
 **Name (Team Member 2):**_________________________
 
-In this recitation, we will investigate recurrences for work and span of algorithms.
+In this recitation, we will investigate recurrences for work and span of algorithms. Unlike other recitations, you may add your answers directly to this document. You do not need to use an `answers.md`.
 
 ## Tree method (7.5 pts)
 Solve the following recurrences using the tree method. 
