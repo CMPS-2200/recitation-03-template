@@ -5,7 +5,7 @@
 
 In this recitation, we will investigate recurrences for work and span of algorithms. Unlike other recitations, you may add your answers directly to this document. You do not need to use an `answers.md`.
 
-## Tree method (7.5 pts)
+## Tree method (9 pts)
 Solve the following recurrences using the tree method. 
 
 a) $W(n) = 3W(n/4) + n^2$
@@ -44,7 +44,7 @@ c) $W(n) = 2W(n/2)+ n/ \log n$
 .  
 
 
-## Brick method (7.5 pts)
+## Brick method (6 pts)
 Solve the following recurrences using the brick method. First argue
 whether they are root-dominated, leaf-dominated, or balanced. Then,
 state the resulting asymptotic bound for $W(n)$.
@@ -71,7 +71,12 @@ b) $W(n) = W(n/2) + W(n/4) + 0.999n$
 .  
 .  
 
-c) $W(n) = \sqrt{n}W(\sqrt{n}) + \sqrt{n}$
+
+## Bonus (3 pts)
+
+Solve the following recurrence.
+
+a) $W(n) = \sqrt{n}W(\sqrt{n}) + \sqrt{n}$
 .  
 .  
 .  
